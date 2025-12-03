@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>
+    This application uses Facebook Login to authenticate users and access certain information from your Facebook profile, such as your name, email address, and profile picture.
+  </p>
+  <ul>
+    <li>We only use your information to provide the core functionality of the application.</li>
+    <li>We do not share your information with third parties.</li>
+    <li>Your personal data is not stored or retained after you log out.</li>
+    <li>You can request deletion of your data at any time by contacting us at <a href="mailto:mpepe66@gmail.com">mpepe66@gmail.com</a>.</li>
+  </ul>
+  <p>
+    For any further questions about data privacy or removal, please email us.
+  </p>
+</body>
+</html>
